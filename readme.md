@@ -1,6 +1,6 @@
-# This simple website outlines my professional work experinece and education.
+### This simple website outlines my professional work experinece and education.
 
-### Following resources as listed are used to accomplish the final design.
+#### Following resources as listed are used to accomplish the final design.
 
 #### Fonts:
  - Montserrat Font (https://www.google.com/fonts/specimen/Montserrat)
